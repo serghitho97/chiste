@@ -1,0 +1,6 @@
+Se abre el telon :
+Aparecen 13 caballos
+Se cierra el telon :
+No hay ningun caballo
+- ¿Cómo se llama la pelicula?
+- El hombre que sus rubaba los caballos
